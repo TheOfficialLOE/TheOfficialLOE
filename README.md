@@ -1,3 +1,3 @@
-- 👋 Hi, I’m LOE
+👋 Hi, I’m LOE
 
-I'm An Android Developer!
+I Don't Really Know How To Fill This README.
